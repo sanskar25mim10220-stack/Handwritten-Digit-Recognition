@@ -1,0 +1,5 @@
+Problem Statement
+
+Handwritten digits vary greatly in shape, size, and writing style from person to person. Traditional software systems struggle to accurately identify handwritten numbers due to these inconsistencies. This creates challenges in applications such as postal automation, bank cheque processing, digitizing forms, and automated data entry.
+
+The problem is to develop a machine learning model that can accurately recognize and classify handwritten digits (0–9) from images. The solution should learn patterns from a large dataset of handwritten samples and correctly identify unseen digit images with high accuracy. Using the MNIST dataset and a Convolutional Neural Network (CNN), the system should be trained to automatically extract features from images and classify them into the correct digit category.
